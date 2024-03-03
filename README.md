@@ -1,2 +1,2 @@
 # AudioImager
-A command-line utility and simple player for precise stereo representation adjustments in WAV files. Control spatial distribution of audio by manipulating mono and cancellation channels. Perfect for enhancing or attenuating specific sound elements.
+AudioImager is a command-line utility and simple player for precise adjustments to the stereo representation of WAV audio files. With AudioImager, you can control the spatial distribution of audio by manipulating the mono and cancellation channels. This allows you to enhance or attenuate specific sound elements in a track, providing you with detailed control over the stereo perception of the audio.
